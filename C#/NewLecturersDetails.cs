@@ -7,16 +7,15 @@ using System.Threading.Tasks;
 
 
     namespace LectureDetailsApp
-    {
+    { 
         public class Lecturer
         {
         public string Name;
         public string Subject;
         public string Course;
         public int NumberOfLectures;
-
-
-        public Lecturer(string name,string subject,string course,int numberOfLectures)
+        
+        public  Lecturer(string name,string subject,string course,int numberOfLectures)
         {
             Name = name;
             Subject = subject;
@@ -53,7 +52,7 @@ public class program
                 lecturer[i].DisplayDetails();
             }
             Console.ReadLine();
-
+            
         }
     }   
 }
