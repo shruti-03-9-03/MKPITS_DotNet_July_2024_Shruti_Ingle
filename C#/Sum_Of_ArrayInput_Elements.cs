@@ -7,6 +7,7 @@ class Program
         // Ask the user for the number of elements in the array
         Console.Write("Enter the number of elements: ");
         int n = int.Parse(Console.ReadLine());
+        
 
         // Declare an array of size n
         int[] array = new int[n];
