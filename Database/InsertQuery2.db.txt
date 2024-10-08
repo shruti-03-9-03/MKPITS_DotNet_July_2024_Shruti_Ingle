@@ -1,0 +1,1 @@
+Insert into Customer (FirstName,LastName,City)values('shraddha','Mishra','Lahore');
