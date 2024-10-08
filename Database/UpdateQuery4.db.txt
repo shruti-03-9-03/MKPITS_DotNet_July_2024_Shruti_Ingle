@@ -1,0 +1,1 @@
+UPDATE Customer SET City = REPLACE(City, 'Nagpur', 'Nashik') WHERE City LIKE 'Nagpur';
