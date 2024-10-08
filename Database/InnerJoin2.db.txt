@@ -1,0 +1,5 @@
+--retrieve all customers and orders. include customer who have not placed any orders and orders
+--that do not have associated customers
+select c.FirstName,c.LastName,c.City,c.Country,c.Phone,c.Email,o.OrdersDate,o.CustomerId,o.TotalAmount,o.OrdersNumber
+from Customerdetail c inner join  Orders o  on c.Id = o.CustomerId ; 
+ 
