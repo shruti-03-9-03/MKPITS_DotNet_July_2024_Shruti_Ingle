@@ -1,0 +1,1 @@
+Insert into Customer (FirstName,LastName,City,Country,Phone)values('Shruti','Ingle','Nagpur','INDIA',3453831723);
