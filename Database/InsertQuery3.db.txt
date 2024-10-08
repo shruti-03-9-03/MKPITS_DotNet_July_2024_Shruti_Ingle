@@ -1,0 +1,1 @@
+Insert into Customer (FirstName,LastName,City,Country,Phone)values('sanskruti','Rai','Nagr','INDIA',848383143),('Sanket','Rajbhar','Nagpur','INDIA',8483831723),('sandhya','jain','Nagpur','INDIA',9833831723),('Neeraj','Rajbhar','kanpur','INDIA',843353431723),('Neeraj','sinhg','Nagpur','INDIA',8483831723);
