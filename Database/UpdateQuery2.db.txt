@@ -1,0 +1,1 @@
+UPDATE Customer SET Phone = '234567898765' WHERE City = 'London';
