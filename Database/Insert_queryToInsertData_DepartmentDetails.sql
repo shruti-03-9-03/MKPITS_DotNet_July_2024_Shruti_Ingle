@@ -1,0 +1,1 @@
+insert into departmentdetails(Departmentname,created_at)values('science','22/08/2002'); --insert command to insert data in table
