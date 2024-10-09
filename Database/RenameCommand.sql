@@ -1,1 +1,1 @@
-EXEC sp_rename 'Customer', 'Customerdetail';  -- this is how we use rename in sql ssms
+EXEC sp_rename 'Customer', 'Customerdetail';  -- this is how we use rename in sql ssmsgit 
