@@ -5,4 +5,5 @@ CREATE TABLE EmployeeDetail (
     Contact nvarchar(50),
 	Salary decimal(18,2),
 	deptID int Not null,
-);   --create a table using crate command 
+); --create a table using crate command 
+--
