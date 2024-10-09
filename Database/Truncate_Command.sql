@@ -1,0 +1,1 @@
+truncate table yourdetail;   -- while using truncate command it is found that ,only rows values are got delete and no affect to column name.
