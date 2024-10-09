@@ -1,0 +1,5 @@
+ 15. join with aggregation .retrive the total number of order placed by each customer 
+--along with their name and email.
+select c.Id,c.FirstName,c.LastName,c.Email,COUNT(OrdersNumber) As totalOrders 
+From Customerdetail c join Orders o ON c.Id=o.CustomerId
+group by c.Id,c.FirstName,c.LastName,c.Email;
