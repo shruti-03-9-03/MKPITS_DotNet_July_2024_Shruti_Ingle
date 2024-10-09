@@ -6,4 +6,3 @@ CREATE TABLE EmployeeDetail (
 	Salary decimal(18,2),
 	deptID int Not null,
 ); --create a table using crate command 
---

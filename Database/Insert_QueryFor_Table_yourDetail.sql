@@ -1,0 +1,1 @@
+insert into yourdetail(username) values('shruti'); -- with the using of insert command we insert values in table .
