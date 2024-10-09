@@ -1,0 +1,1 @@
+drop table mydetail; -- while using the drop command it is found that all the details in tabels are got delted with column name also.
