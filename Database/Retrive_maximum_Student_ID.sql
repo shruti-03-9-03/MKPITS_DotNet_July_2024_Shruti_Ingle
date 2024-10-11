@@ -1,0 +1,1 @@
+Select  StudentName From tb_StudentDetails where (max (StudentId) From tb_StudentDetails);
