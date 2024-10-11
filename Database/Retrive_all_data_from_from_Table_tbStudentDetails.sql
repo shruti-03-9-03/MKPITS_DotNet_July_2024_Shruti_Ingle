@@ -1,0 +1,1 @@
+SElect count(*) From tb_StudentDetails;
