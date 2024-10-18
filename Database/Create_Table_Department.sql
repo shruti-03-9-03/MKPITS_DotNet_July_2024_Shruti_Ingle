@@ -1,0 +1,1 @@
+create table Departments(DepartmentID int primary key ,DepartmentName nvarchar(50));
