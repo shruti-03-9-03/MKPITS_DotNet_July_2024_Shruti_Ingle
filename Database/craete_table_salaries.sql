@@ -1,0 +1,1 @@
+create table salaries (EmployeeID int ,SalaryAmount decimal(10, 2),PayDate date);
