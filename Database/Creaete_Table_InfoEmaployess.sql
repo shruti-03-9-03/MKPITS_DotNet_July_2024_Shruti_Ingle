@@ -1,0 +1,1 @@
+create table InfoEmployees(EmployeeID int primary key,FirstName nvarchar(50),LastName nvarchar(50),Department int);
