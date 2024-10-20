@@ -4,4 +4,3 @@ INNER JOIN Customers c
 ON o.CustomerID = c.CustomerID
 INNER JOIN Products p
 ON o.ProductID = p.ProductID;
-
